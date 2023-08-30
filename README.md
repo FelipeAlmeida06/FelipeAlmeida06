@@ -3,7 +3,8 @@
 - Cursando PD no COTUCA- UNICAMP 🧑🏽‍🎓
 - 17 anos - 02/02/2006
 - Se tornar programador 👨🏽‍💻
-- Aprendendo atualmente a Linguagem de Programação Python
+- Aprendendo atualmente as Linguagens de Programação Java e JavaScript.
+- Em breve aprenderei NodeJs, um framework que usaremos junto com o JavaScript. 
 - Conhecimento em HTML5, CSS3, JavaScript e C# 
 ## Linguagens de Programação que eu aprendi até o momento:
 <div style="display: inline_block"><br>
