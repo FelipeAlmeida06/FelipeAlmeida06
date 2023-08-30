@@ -1,12 +1,12 @@
 ## Seja Bem-Vindo ao meu GitHub. Eu me chamo Felipe.
 ## Em breve, publicarei meus projetos !!
-## Em breve, disponibilizarei o meu GitHub institucional !!
+## Em breve, disponibilizarei o meu GitHub Institucional !!
 - Cursando PD no COTUCA- UNICAMP 🧑🏽‍🎓
 - 17 anos - 02/02/2006
 - Se tornar programador 👨🏽‍💻
 - Aprendendo atualmente as Linguagens de Programação Java e JavaScript.
 - Em breve aprenderei NodeJs. Usaremos esse "ambiente de execução" junto com o JavaScript. 
-- Conhecimento em HTML5, CSS3, JavaScript (básico-intermediário), C# (básico-intermediário) e Java (iniciando).
+- Conhecimento em HTML5, CSS3, Python, JavaScript, C# (básico-intermediário) e Java (iniciando).
 ## Linguagens de Programação que eu aprendi até o momento:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
