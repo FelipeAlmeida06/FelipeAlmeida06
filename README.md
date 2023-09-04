@@ -1,6 +1,6 @@
 ## Seja Bem-Vindo ao meu GitHub. Eu me chamo Felipe.
 ## Em breve, publicarei meus projetos !!
-## Em breve, disponibilizarei o meu GitHub Institucional !!
+## GitHub Escolar: https://github.com/Felipe020206
 - Cursando PD no COTUCA- UNICAMP 🧑🏽‍🎓
 - 17 anos - 02/02/2006
 - Se tornar programador 👨🏽‍💻
