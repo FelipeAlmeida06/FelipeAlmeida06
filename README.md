@@ -6,7 +6,7 @@
 - Se tornar programador 👨🏽‍💻
 - Aprendendo atualmente as Linguagens de Programação Java e JavaScript.
 - Iniciando em NodeJs. Usarei esse "ambiente de execução" junto com o JavaScript. 
-- Conhecimento em HTML5, CSS3, Python, JavaScript, C# (básico-intermediário) e Java (iniciando).
+- Conhecimento em HTML5, CSS3, MySQL, Python, JavaScript, C# (básico-intermediário) e Java (iniciando).
   
 ## Linguagens de Programação que eu aprendi até o momento:
 <div style="display: inline_block"><br>
