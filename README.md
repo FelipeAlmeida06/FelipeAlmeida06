@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 	
 ## Redes Sociais:
 <div>
-  <img align="center" alt="Felipe-Gmail" height="25" width="125" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img align="center" alt="Felipe-Gmail" height="35" width="125" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img align="center" alt="Felipe-Telegram" height="35" width="125" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <img align="center" alt="Felipe-Whatsapp" height="35" width="125" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <img align="center" alt="Felipe-GitHub" height="35" width="125" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
