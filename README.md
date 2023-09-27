@@ -7,16 +7,7 @@
 - Aprendendo atualmente as Linguagens de Programação Java e JavaScript.
 - Iniciando em NodeJs. Usarei esse "ambiente de execução" junto com o JavaScript. 
 - Conhecimento em HTML5, CSS3, MySQL, Python, JavaScript, C# (básico-intermediário) e Java (iniciando).
-  
-## Destaques do Perfil:
-
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeAlmeida06&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117100" alt="Felipe Antônio de Oliveira Almeida github stats" /> 
-</div> <br>
-<div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlmeida06&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-	  
+    
 ## Linguagens de Programação que eu aprendi até o momento:
 <div>
   <img align="center" alt="Rafa-Js" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
