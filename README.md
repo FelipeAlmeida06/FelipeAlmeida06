@@ -2,11 +2,10 @@
 ## Em breve, publicarei meus projetos !!
 ## GitHub Escolar: https://github.com/Felipe020206
 - Cursando PD no COTUCA- UNICAMP 🧑🏽‍🎓
-- 17 anos - 02/02/2006
-- Se tornar programador 👨🏽‍💻
-- Aprendendo atualmente as Linguagens de Programação Java e JavaScript.
-- Iniciando em NodeJs. Usarei esse "ambiente de execução" junto com o JavaScript. 
-- Conhecimento em HTML5, CSS3, MySQL, Python, JavaScript, C# (básico-intermediário) e Java (iniciando).
+- 18 anos - 02/02/2006
+- Quero me tornar programador 👨🏽‍💻
+- Aprendendo Java e JavaScript.
+- Conhecimento em HTML5, CSS3, MySQL, Python, JavaScript, C# e Java.
     
 ## Linguagens de Programação que eu aprendi até o momento:
 <div>
