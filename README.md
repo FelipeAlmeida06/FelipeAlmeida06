@@ -9,8 +9,8 @@
 ##
 
 <p align="center">
-    <h2>Tecnologias:</h2>
   <a href="https://skillicons.dev">
+    <h2>Tecnologias:</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,firebase,arduino,swift,react,java,nodejs,python,mysql,kotlin,flutter" />
   </a>
 </p>
