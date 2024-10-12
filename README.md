@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-  	<img src="https://skillicons.dev/iconsi=html,css,javascript,firebase,arduino,swift,react,java,nodejs,python,mysql,kotlin,flutter"
-   </a>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,cs,arduino,swift,react,java,nodejs,python,mysql,kotlin,unity" />
+  </a>
 </p>
