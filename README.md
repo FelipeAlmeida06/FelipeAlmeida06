@@ -1,15 +1,15 @@
-## Seja Bem-Vindo ao meu GitHub. Eu me chamo Felipe.
-## Em breve, publicarei meus projetos !!
-## GitHub Escolar: https://github.com/Felipe020206
-- Cursando PD no COTUCA- UNICAMP 🧑🏽‍🎓
-- 19 anos - 02/02/2006
-- Aprendendo IA e Linguagem C.
-- Atualmente desenvolvendo TCC.
-    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E7425F&random=false&width=680&lines=Hi+there%2C+I'm+Felipe+Almeida;Full-Stack+Developer!)](https://git.io/typing-svg)
+ 
+- Studying a Computer Science at COTUCA-UNICAMP 🧑🏽‍🎓
+- Expected completion: December 2025
+- 19 years old
+- Learning AI and C++
+- Currently developing a final project
+
 ##
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,arduino,swift,flutter,firebase,react,java,nodejs,python,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,arduino,swift,c,cpp,cs,docker,dart,react,java,py,unity" />
   </a>
 </p>
